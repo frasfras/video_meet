@@ -1,5 +1,5 @@
 # video_meet
-video_meet
+video_meet , video call for case meet app quickbase
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
